@@ -1,0 +1,20 @@
+# Build output
+build/
+/nob
+/nob.exe
+/nob.old
+/nob.exe.old
+*.o
+*.obj
+*.exe
+*.pdb
+*.ilk
+*.exp
+*.lib
+*.a
+
+# Editor / tooling
+.vscode/
+.idea/
+.cache/
+compile_commands.json
